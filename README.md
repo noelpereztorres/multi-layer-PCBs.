@@ -35,10 +35,3 @@ Licensed under CERN-OHL-S v2 or any later version. See `LICENSE` for more inform
 ## Contact
 
 Max Stabel - [https://max.stabel.family/](https://max.stabel.family)
-
-Project Link: [https://github.com/M4a1x/TPS5430](https://github.com/M4a1x/TPS5430)
-
-## Acknowledgements
-
-* [Philip Salamony](https://philsal.co.uk/) and his [BananaSchplit Project](https://github.com/pms67/BananaSchplit) and [Video](https://www.youtube.com/watch?v=qXWYXxDokv4)
-* [ugurozkan52/TPS5430_Power_Module](https://github.com/ugurozkan52/TPS5430_Power_Module) which inspired me to add the output voltage jumpers
