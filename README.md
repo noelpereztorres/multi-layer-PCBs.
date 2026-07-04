@@ -32,6 +32,3 @@ Deviations are:
 
 Licensed under CERN-OHL-S v2 or any later version. See `LICENSE` for more information.
 
-## Contact
-
-Max Stabel - [https://max.stabel.family/](https://max.stabel.family)
